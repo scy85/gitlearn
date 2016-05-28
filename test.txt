@@ -2,4 +2,5 @@ test
 Creating a new brach is quick
 Creating a new branch is quick and simpleL
 add merge
-haha shishi 
+pull
+haha shishi
